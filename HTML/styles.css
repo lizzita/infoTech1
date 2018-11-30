@@ -1,13 +1,15 @@
-body{background-color:pink;}
+body{background-color:mint;}
 
-p{color:green; font-family:Arial;}
+p{color:green; font-family:Calibri;}
 
-h1{color:purple; font-family:Aharoni;}
+h1{color:black; font-family:Aharoni;}
 
-h3{color:blue; font-family:Garamond;}
+h3{color:violet; font-family:Garamond;}
 
 ul{
   list-style-type: lower-roman;
-  color: yellow;
+  color: red;
   font-family: "Iskoola Pota";
 }
+
+table {background-color: cream;}
